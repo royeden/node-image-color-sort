@@ -1,0 +1,13 @@
+{
+  "name": "seleccion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fast-average-color-node": "^1.0.3",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "pkg": "^4.5.1"
+  }
+}
